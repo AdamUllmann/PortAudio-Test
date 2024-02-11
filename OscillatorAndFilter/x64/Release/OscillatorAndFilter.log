@@ -1,0 +1,16 @@
+﻿  OscillatorAndFilter.cpp
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(18,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(20,28): warning C4305: '-=': truncation from 'double' to 'float'
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(31,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(44,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(45,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(50,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(57,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(76,39): warning C4305: '-=': truncation from 'double' to 'float'
+D:\NEW DOWNLOADS\OscillatorAndFilter\OscillatorAndFilter\OscillatorAndFilter.cpp(91,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 325 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OscillatorAndFilter.vcxproj -> D:\NEW DOWNLOADS\OscillatorAndFilter\x64\Release\OscillatorAndFilter.exe
